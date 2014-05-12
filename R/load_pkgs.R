@@ -6,7 +6,6 @@ load_pkgs <- function() {
   require("RJDBC")
   require("RODBC")
   require("teradataR")
-  require("nzr")
   require("data.table")
   require("ggplot2")
 }
